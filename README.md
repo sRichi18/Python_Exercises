@@ -1,7 +1,7 @@
 ### Primer repositorio
 Repositorio para aprender github
 
-##Descripcion
+## Descripcion
 El proposito de este repositorio es; practicar el funcionamiento de github y almacenar ejercicios de practica
 
 <!--
