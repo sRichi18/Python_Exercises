@@ -1,4 +1,8 @@
-### Hi there 👋
+### Primer repositorio
+Repositorio para aprender github
+
+##Descripcion
+El proposito de este repositorio es; practicar el funcionamiento de github y almacenar ejercicios de practica
 
 <!--
 **sRichi18/sRichi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
