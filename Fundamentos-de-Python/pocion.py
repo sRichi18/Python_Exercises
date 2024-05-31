@@ -1,7 +1,7 @@
 import random
 
 hp = 50
-difficulty = 2
+difficulty = 3
 
 potion_hp = int(random.randint(25, 50) / difficulty)
 
