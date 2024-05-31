@@ -1,0 +1,14 @@
+Brush,3,4,12
+Soda,5,2,10
+Sheets,100,1,100
+Toothbrush,2,8,16
+Cup,4,2,8
+Mouse,2,20,40
+Keyboard,2,25,50
+Glue,4,3,12
+Pencil,6,2,12
+Eraser,5,1,5
+Milk,3,5,15
+Rags,7,2,14
+Rags,7,2,14
+Rags,7,2,14

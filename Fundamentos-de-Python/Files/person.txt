@@ -1,0 +1,3 @@
+Rosa,20,F
+Juan,23,M
+Ricardo,27,M
