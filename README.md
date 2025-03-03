@@ -1,8 +1,8 @@
-### Primer repositorio
-Repositorio para aprender github
+### Ejercicios Basicos con Python
+
 
 ## Descripcion
-El proposito de este repositorio es; practicar el funcionamiento de github y almacenar ejercicios de practica
+Repositorio donde almaceno todos los ejercicios de practica que he realizado en Python
 
 <!--
 **sRichi18/sRichi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
